@@ -48,7 +48,7 @@ export default function SettingsModal({ onClose, onReloadData }) {
             </div>
             <div>
               <h2 className="text-lg font-bold text-white font-heading">
-                Configurações do SuperFlix
+                Configurações do MyFlix
               </h2>
               <p className="text-xs text-dark-400">Servidores do player e chave de catálogo</p>
             </div>

@@ -1,4 +1,4 @@
-# 🎬 SUPERFLIX — Plataforma de Streaming Moderna
+# 🎬 MYFLIX — Plataforma de Streaming Moderna
 
 Uma plataforma de streaming e catálogo de filmes, séries, animes e desenhos moderna, elegante e minimalista. Desenvolvida com a paleta de cores solicitada: **Preto, Cinza e Branco**, com destaques vibrantes em **Vermelho/Vinho**, integrada ao reprodutor embed da **API SuperFlix** e metadados oficiais via TMDB em Português (`pt-BR`).
 

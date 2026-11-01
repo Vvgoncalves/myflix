@@ -1,7 +1,7 @@
 @echo off
-title SUPERFLIX - Servidor Local
+title MYFLIX - Servidor Local
 echo ==============================================
-echo   Iniciando SUPERFLIX Streaming...
+echo   Iniciando MYFLIX Streaming...
 echo ==============================================
 echo.
 npm.cmd run dev

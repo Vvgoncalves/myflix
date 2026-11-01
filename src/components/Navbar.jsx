@@ -102,7 +102,7 @@ export default function Navbar({
               </div>
               <div className="flex flex-col">
                 <span className="text-xl font-extrabold tracking-wider font-heading text-white">
-                  SUPER<span className="text-wine-500">FLIX</span>
+                  MY<span className="text-wine-500">FLIX</span>
                 </span>
                 <span className="text-[10px] tracking-widest uppercase text-dark-400 font-semibold -mt-1">
                   Streaming

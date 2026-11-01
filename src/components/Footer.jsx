@@ -13,7 +13,7 @@ export default function Footer({ onSelectSection }) {
                 <Play className="w-4 h-4 text-white fill-white ml-0.5" />
               </div>
               <span className="text-xl font-black tracking-wider text-white font-heading">
-                SUPER<span className="text-wine-500">FLIX</span>
+                MY<span className="text-wine-500">FLIX</span>
               </span>
             </div>
             <p className="text-xs text-dark-400 leading-relaxed">
@@ -108,7 +108,7 @@ export default function Footer({ onSelectSection }) {
 
         {/* Bottom line */}
         <div className="pt-8 border-t border-dark-900 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-dark-500">
-          <p>© {new Date().getFullYear()} SuperFlix Streaming. Todos os direitos reservados.</p>
+          <p>© {new Date().getFullYear()} MyFlix Streaming. Todos os direitos reservados.</p>
           <div className="flex items-center gap-4">
             <span className="flex items-center gap-1">
               Feito com design moderno & animações suaves
